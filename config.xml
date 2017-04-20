@@ -83,7 +83,7 @@
     <icon src="res/icon/ios/icon-57-2x.png"         gap:platform="ios"        width="114" height="114" />
     <icon src="res/icon/ios/icon-72-2x.png"         gap:platform="ios"        width="144" height="144" />
     
-    <icon src="res/icon/ios/icon-60@3x.png"         gap:platform="ios"        width="180" height="180" />
+    <icon src="icon/ios/icon-60@3x.png"         gap:platform="ios"        width="180" height="180" />
     
     <icon src="res/icon/webos/icon-64.png"          gap:platform="webos" />
     <icon src="res/icon/windows-phone/icon-48.png"  gap:platform="winphone" />
@@ -102,7 +102,7 @@
     <gap:splash src="res/screen/ios/screen-iphone-portrait-568h-2x.png" gap:platform="ios"     width="640" height="1136" />
 
     <gap:splash src="res/screen/ios/Default-667h@2x.png" platform="ios" width="750" height="1334" />
-    <gap:splash src="res/screen/ios/iphone7.png" platform="ios" width="1242" height="2208" />
+    <gap:splash src="screen/ios/iphone7.png" platform="ios" width="1242" height="2208" />
     
     <gap:splash src="res/screen/ios/screen-ipad-portrait.png"           gap:platform="ios"     width="768" height="1024" />
     <gap:splash src="res/screen/ios/screen-ipad-landscape.png"          gap:platform="ios"     width="1024" height="768" />
